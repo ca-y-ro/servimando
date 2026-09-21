@@ -1,0 +1,15 @@
+E:\servimando\botones\menu\menuitemhot_bg.png
+E:\servimando\botones\menu\ebab_mbmcp.gif
+E:\servimando\botones\menu\mb_inicio.gif
+E:\servimando\botones\menu\mb_mandos.gif
+E:\servimando\botones\menu\mb_receptores.gif
+E:\servimando\botones\menu\mb_temporizadores.gif
+E:\servimando\botones\menu\mb_cajas_de_sonido.gif
+E:\servimando\botones\menu\mb_start_stop.gif
+E:\servimando\botones\menu\mb_contacto.gif
+E:\servimando\botones\menu\ebab_mbmcp_c.gif
+E:\servimando\botones\menu\ebab_mbmcp_c2.gif
+E:\servimando\botones\menu\mbjsmbmcp.js
+E:\servimando\botones\menu\mbcsmbmcp.css
+E:\servimando\botones\index.htm
+E:\servimando\botones\menu\filelist_73g0.txt
