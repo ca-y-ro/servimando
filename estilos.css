@@ -1,0 +1,22 @@
+#contenedor {
+	width: 360px;
+	margin: auto;
+	border: solid 1px #000000;
+	background: #FFC;
+	padding: 8px;
+	font-family:Verdana, Geneva, sans-serif;
+	box-shadow: 6px 6px 6px 2px #000000;
+	-moz-box-shadow: 6px 6px 6px 2px #000000;
+	-ms-box-shadow: 6px 6px 6px 2px #000000;
+	-o-box-shadow: 6px 6px 6px 2px #000000;
+	-webkit-box-shadow: 6px 6px 6px 2px #000000;
+}
+#contenedor form {
+	margin: auto;
+}
+#contenedor input {
+	padding: 8px;
+}
+#contenedor textarea {
+	padding: 8px;
+}
